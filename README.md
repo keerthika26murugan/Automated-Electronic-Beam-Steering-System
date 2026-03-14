@@ -48,14 +48,16 @@ Satellite motion and orbital parameters are simulated using STK, while beamformi
 * Suppressed side lobes reducing interference
 * Stable communication link confirmed using link budget analysis
 
-## 📂 Project Structure
-Beam-Steering-System/
-├── MATLAB-Code/
-├── STK-Simulation/
-├── Beamforming-Results/
-├── Documentation/
-├── Poster/
-└── README.md
+## Project Structure
+Beam-Steering-System
+│
+├── README.md
+├── Poster
+├── MATLAB-Code
+├── STK-Simulation
+├── Beamforming-Results
+├── Documentation
+└── Images
 
 ## 🌍 Applications
 * Satellite communication ground stations
